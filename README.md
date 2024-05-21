@@ -1,2 +1,2 @@
 # My-Portfolio
-A collection of my work to demonstrate my skills and experience
+A collection of my work to demonstrate my skills and experience.
